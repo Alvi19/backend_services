@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi
 **Backend Services** adalah proyek backend yang dikembangkan menggunakan **Golang** dengan framework **Fiber**.  
-Proyek ini menggunakan **PostgreSQL** sebagai database utama dan diimplementasikan dengan **arsitektur microservices**.
+Proyek ini menggunakan **PostgreSQL** sebagai database utama.
 
 ---
 
@@ -21,3 +21,4 @@ Proyek ini menggunakan **PostgreSQL** sebagai database utama dan diimplementasik
 ```bash
 git clone https://github.com/Alvi19/backend_services.git
 cd backend_services
+cp .env.example .env
