@@ -19,9 +19,9 @@ import (
 	// "gorm.io/gorm/clause"
 )
 
-// @title Technical Tes FullStack Developer __(Client : KFC)
+// @title FullStack Developer __(Client : KFC)
 // @version 1.0
-// @description Technical Tes FullStack Developer __(Client : KFC) Rest API.
+// @description FullStack Developer __(Client : KFC) Rest API.
 // @termsOfService http://swagger.io/terms/
 // @contact.name API Support
 // @contact.email lifelinejar@gmail.com
